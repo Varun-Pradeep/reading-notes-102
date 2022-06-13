@@ -12,7 +12,3 @@ It is a course browsing system for my high school.
 2. C#
 3. Scratch Junior
 4. C
-.
-.
-.
-10234. Python
