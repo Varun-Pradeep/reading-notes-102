@@ -1,5 +1,9 @@
 ## Growth Mindset
+
+1. [Reading 1](reading-1.md)
+
 ---
+
 Having a **growth mindset** means wanting to learn. It also means thinking that you *can* learn.
 ---
 ## Introduction
