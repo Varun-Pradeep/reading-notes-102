@@ -1,18 +1,28 @@
-## Growth Mindset
+# Table of Contents
+
+## Readings
 
 1. [Reading 1](reading-01.md)
 2. [Reading 2](reading-02.md)
+3. [Reading 3](reading-03.md)
+
+## Misc
+
+1. [Languages](language-comparison.md)
 
 ---
 
 Having a **growth mindset** means wanting to learn. It also means thinking that you *can* learn.
+
 ---
+
 ## Introduction
-Uh...You should look at my other github account: 	[Ascent817](https://github.com/Ascent817)
-I'm most comfortable in C#, but I know a good amount of JavaScript as well. My biggest project has been [CourseInspector](https://courseinspector.web.app).
-It is a course browsing system for my high school.
+
+Uh...You should look at my other github account:  [Ascent817](https://github.com/Ascent817)
+I'm most comfortable in C#, but I know a good amount of JavaScript as well. My biggest project has been [CourseInspector](https://courseinspector.web.app). It's a course browsing system for my high school.
 
 ## Languages I like
+
 1. JavaScript
 2. C#
 3. Scratch Junior
