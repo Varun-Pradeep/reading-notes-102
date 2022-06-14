@@ -1,6 +1,7 @@
 ## Growth Mindset
 
 1. [Reading 1](reading-01.md)
+2. [Reading 2](reading-02.md)
 
 ---
 
