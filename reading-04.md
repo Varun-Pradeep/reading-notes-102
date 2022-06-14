@@ -29,3 +29,9 @@ In HTML, there's a cool tag called `<div>`. It doesn't do anything on its own, b
 * `<time>`
 
 All of these *could* be replaced by `<div>`, but it makes more sense to use these more specific tags. Also, you may have to mess around with css to get it to behave like some of these semantic tags.
+
+## Strategies
+
+I think the easiet way to plan and develop a website is to first make a mockup or a wireframe. I usually use Adobe XD, but Figma or even a piece of paper and pencil work just as well. I like to block out large areas first and define what they have to do to make the whole site work.
+
+![Wireframe](images/Wireframe.png)
