@@ -12,7 +12,7 @@
 
 ---
 
-Having a **growth mindset** means wanting to learn. It also means thinking that you *can* learn.
+Having a **growth mindset** means wanting to learn. It also means thinking that you *can* learn .
 
 ---
 
