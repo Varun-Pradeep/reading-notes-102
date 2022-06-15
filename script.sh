@@ -3,4 +3,4 @@ git pull
 git add .
 git commit -m "$1"
 git push
-echo All actions finished successfully
+echo All actions finished successfully!
