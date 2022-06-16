@@ -9,6 +9,7 @@
 5. [Reading 5](reading-05.md)
 6. [Reading 6](reading-06.md)
 7. [Reading 7](reading-07.md)
+8. [Reading 8](reading-08.md)
 
 ## Misc
 
