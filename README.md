@@ -2,6 +2,8 @@
 
 ## Readings
 
+### 102
+
 1. [Reading 1](reading-01.md)
 2. [Reading 2](reading-02.md)
 3. [Reading 3](reading-03.md)
@@ -10,6 +12,8 @@
 6. [Reading 6](reading-06.md)
 7. [Reading 7](reading-07.md)
 8. [Reading 8](reading-08.md)
+
+### 301
 
 ## Misc
 
