@@ -16,6 +16,7 @@
 ### 301
 
 1. [Reading 1](301/reading-01.md)
+2. [Reading 2](301/reading-02.md)
 
 ## Misc
 
