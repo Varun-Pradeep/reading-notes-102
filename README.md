@@ -20,6 +20,7 @@
 3. [Reading 3](301/reading-03.md)
 4. [Reading 4](301/reading-04.md)
 5. [Reading 5](301/reading-05.md)
+6. [Reading 6](301/reading-06.md)
 
 ## Misc
 
